@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=SpicyGangjeong&show_icons=true&bg_color=30,7FBF7F,5FAFAF,4FA3C8&title_color=FFFFFF&text_color=F5F5F5&icon_color=FFFFFF&border_color=C0C0C0" height="165"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SpicyGangjeong&show_icons=true&bg_color=30,7FBF7F,5FAFAF,4FA3C8&title_color=FFFFFF&text_color=F5F5F5&icon_color=FFFFFF&border_color=C0C0C0" height="165"/>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=Cforme" height="165"/>
