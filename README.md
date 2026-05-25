@@ -1,56 +1,43 @@
 <div align="left">
 
-<table>
+  <img src="https://github-stats-extended.vercel.app/api?username=SpicyGangjeong&show_icons=true&bg_color=30,7FBF7F,5FAFAF,4FA3C8&title_color=FFFFFF&text_color=F5F5F5&icon_color=FFFFFF&border_color=C0C0C0" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SpicyGangjeong&show_icons=true&bg_color=30,7FBF7F,5FAFAF,4FA3C8&title_color=FFFFFF&text_color=F5F5F5&icon_color=FFFFFF&border_color=C0C0C0" height="165"/>
+  
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td>
-  <img src="https://github-stats-extended.vercel.app/api?username=SpicyGangjeong&show_icons=true&bg_color=30,7FBF7F,5FAFAF,4FA3C8&title_color=FFFFFF&text_color=F5F5F5&icon_color=FFFFFF&border_color=C0C0C0" width="300"/>
-</td>
-<td>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SpicyGangjeong&show_icons=true&bg_color=30,7FBF7F,5FAFAF,4FA3C8&title_color=FFFFFF&text_color=F5F5F5&icon_color=FFFFFF&border_color=C0C0C0" width="300"/>
-</td>
-<td>
-</td>
-</tr>
-
-<tr>
-<td>
+<td width="300" height="165" >
   <a href="https://youtu.be/aBrKtyXOwfQ">
-    <img src="https://i.ytimg.com/vi/aBrKtyXOwfQ/0.jpg" width="300"/>
+    <img src="https://i.ytimg.com/vi/aBrKtyXOwfQ/0.jpg" width="300" height="165"/>
   </a>
 </td>
-<td>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=Cforme" width="300"/>
+<td width="300" height="165">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=Cforme" width="300" height="165"/>
 </td>
-<td>
+<td width="300" height="165">
   <a href="https://enchanted-guava-0dd.notion.site/ebd/3bcfdb5ed83682428d4d815c5ef18465">
-    <img src="https://github.com/user-attachments/assets/f28fc4a6-c6a2-40fc-9805-f119ba5c3faa" width="300"/>
+    <img src="https://github.com/user-attachments/assets/f28fc4a6-c6a2-40fc-9805-f119ba5c3faa" width="300" height="165"/>
   </a>
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="300" height="45" align="center">
   <a href="https://youtu.be/aBrKtyXOwfQ">
     <img src="https://img.shields.io/badge/YouTube-프로젝트_영상_보기-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </td>
-<td>
+<td width="300" height="45" align="center">
   <a href="https://solved.ac/profile/cforme">
     <img src="https://img.shields.io/badge/BOJ-cforme-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </td>
-<td>
+<td width="300" height="45" align="center">
   <a href="https://enchanted-guava-0dd.notion.site/ebd/3bcfdb5ed83682428d4d815c5ef18465">
     <img src="https://img.shields.io/badge/Notion-개인공부기록_보기-black?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </td>
 </tr>
-
 </table>
-
-</div>
-
-
 
 
   
