@@ -1,8 +1,15 @@
 <div align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=SpicyGangjeong&show_icons=true&bg_color=30,7FBF7F,5FAFAF,4FA3C8&title_color=FFFFFF&text_color=F5F5F5&icon_color=FFFFFF&border_color=C0C0C0" height="220"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SpicyGangjeong&show_icons=true&bg_color=30,7FBF7F,5FAFAF,4FA3C8&title_color=FFFFFF&text_color=F5F5F5&icon_color=FFFFFF&border_color=C0C0C0" height="195"/>
-  <br>
+<br>
+<a href="https://youtu.be/aBrKtyXOwfQ">
+  <img src="https://i.ytimg.com/vi/aBrKtyXOwfQ/0.jpg" height="165"/>
+</a>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=Cforme" height="165"/>
+<br>
+<a href="https://youtu.be/aBrKtyXOwfQ">
+  <img src="https://img.shields.io/badge/YouTube-프로젝트_영상_보기-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 </div>
 <div align=left><h1>📚 STACKS</h1></div>
 
