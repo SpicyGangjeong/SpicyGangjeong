@@ -32,7 +32,7 @@
   </a>
 </td>
 <td width="300" height="45" align="center">
-  <a href="https://enchanted-guava-0dd.notion.site/ebd/3bcfdb5ed83682428d4d815c5ef18465">
+  <a href="https://spicygangjeong.notion.site/MyStack-3bcfdb5ed83682428d4d815c5ef18465">
     <img src="https://img.shields.io/badge/Notion-개인공부기록_보기-black?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </td>
